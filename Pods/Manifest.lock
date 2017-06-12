@@ -1,0 +1,19 @@
+PODS:
+  - EasyPeasy (1.4.2)
+  - RxCocoa (3.3.0):
+    - RxSwift (~> 3.3)
+  - RxSwift (3.3.0)
+
+DEPENDENCIES:
+  - EasyPeasy
+  - RxCocoa (~> 3.0)
+  - RxSwift (~> 3.0)
+
+SPEC CHECKSUMS:
+  EasyPeasy: 50e7130b61f495ce105796e438d4136e2c8d2cc0
+  RxCocoa: 74acedc2d964823b807e5de2e215e2c2bd2e5a19
+  RxSwift: 7d42e8bc91faa4c218292400646c482f3402774a
+
+PODFILE CHECKSUM: 95f5d362e563f0e7e2005cd46219d4816ef584d8
+
+COCOAPODS: 1.2.0
